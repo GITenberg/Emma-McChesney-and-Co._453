@@ -1,0 +1,32 @@
+_repo: Emma-McChesney-and-Co._453
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ferber, Edna
+    birthdate: 1885
+    deathdate: 1968
+    gutenberg_agent_id: '193'
+    url: http://www.gutenberg.org/2009/agents/193
+    wikipedia: http://en.wikipedia.org/wiki/Edna_Ferber
+description: ''
+gutenberg_issued: '1996-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Traveling sales personnel -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'McChesney, Emma (Fictitious character) -- Fiction'
+- !lcsh 'Businesswomen -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Women sales personnel -- Fiction'
+- GITenberg
+tableOfContents: Broadway to Buenos Aires -- Thanks to Miss Morrissey -- A closer
+  corporation -- Blue serge -- "Hoops, my dear!" -- Sisters under their skin -- An
+  étude for Emma.
+title: Emma McChesney and Co.
+url: http://www.gutenberg.org/ebooks/453
